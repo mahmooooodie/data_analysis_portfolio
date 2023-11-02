@@ -26,7 +26,7 @@ If you want to explore any of the projects in more detail or reproduce the analy
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/your-profile/mahmudapaydin
+- LinkedIn: https://www.linkedin.com/in/mahmudapaydin
 - Email: mapay5555@gmail.com
 
 Feel free to reach out if you have any questions or would like to discuss collaboration or job opportunities.
